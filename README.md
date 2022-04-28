@@ -75,9 +75,6 @@
 
 
 
-
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=democraz20)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=democraz20)  
