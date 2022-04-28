@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [TASKmd](https://github.com/democraz20/taskmd)  
   
 
-- 🌱 I'm currently learning C, Python and some webdevs  
+- 🌱 I'm currently learning C#, Python and some webdevs  
   
 
 <br/>  
