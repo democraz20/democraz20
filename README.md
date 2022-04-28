@@ -73,14 +73,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=democraz20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=democraz20&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 
 <br />
@@ -90,3 +83,13 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=democraz20)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=democraz20)  
+
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=democraz20&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
