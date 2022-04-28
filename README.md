@@ -1,10 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Demo, a student that likes computers</div>  
-  
+# <br/> <div align="center">I'm Demo, a student that likes computers</div> <br/> 
 
 - 🔭 I’m currently working on [TASKmd](https://github.com/democraz20/taskmd)  
   
@@ -69,19 +63,19 @@
 
 <br/>  
 
+## Github Stats 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=democraz20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=democraz20">
+    <img src="https://github-readme-stats.vercel.app/api?username=democraz20&show_icons=true&count_private=true&hide_border=true">
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=democraz20)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=democraz20)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=democraz20)  
-
-
+</div>
 <br/>  
 
 <div align="center">
