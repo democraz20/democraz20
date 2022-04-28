@@ -85,5 +85,8 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=democraz20)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=democraz20)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=democraz20)  
