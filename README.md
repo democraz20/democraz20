@@ -1,4 +1,4 @@
-# <br/> <div align="center">I'm Demo, a student that likes computers</div> <br/> 
+# <br/> <div align="center">I'm Demo</div> <br/> 
 
 - 🔭 I’m currently working on [pyMarkup](https://github.com/democraz20/pyMarkup)
   
