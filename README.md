@@ -6,6 +6,7 @@
   
   
 <img src="https://img.shields.io/badge/knows%20what%20im%20doing-no-brightgreen">
+<img src="https://img.shields.io/badge/completely%20clueless-True-blue">
 
 <br/>  
 
