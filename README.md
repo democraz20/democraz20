@@ -4,6 +4,8 @@
   
 - 🌱 I'm currently learning C#, Python and some webdevs  
   
+  
+<img src="https://img.shields.io/badge/knows%20what%20im%20doing-no-brightgreen">
 
 <br/>  
 
