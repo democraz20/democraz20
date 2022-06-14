@@ -1,9 +1,9 @@
 # <br/> <div align="center">I'm Demo</div> <br/> 
 
-- 🔭 I’m currently working on [pyMarkup](https://github.com/democraz20/learning-rust)
+- 🔭 I’m currently working on [learning rust](https://github.com/democraz20/learning-rust)
 - just currently interested in rust
   
-- 🌱 I'm currently learning C#, Python and some webdevs  
+- 🌱 I'm currently learning C#, rust, Python and some webdevs 
   
   
 <img src="https://img.shields.io/badge/knows%20what%20im%20doing-no-brightgreen">
