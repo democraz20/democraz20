@@ -1,6 +1,6 @@
 # I'm Demo
 
-- 🔭 I’m currently working on [TASKmd](https://github.com/democraz20/BazaarHelperCLI)
+- 🔭 I’m currently working on [BazaarHelperCLI](https://github.com/democraz20/BazaarHelperCLI)
 
 - 🌱 I’m currently learning **The rust programming language**
 
