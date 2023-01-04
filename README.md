@@ -1,9 +1,7 @@
 # I'm Demo
 
 - 🔭 I’m currently working on [termml](https://github.com/democraz20/termml)
-- 
 - 🌱 I’m currently learning **The rust programming language**
-
 - 🤝 I’m looking for help with **Debloating the web**
 
 <img align="center" src="https://img.shields.io/badge/knows%20what%20im%20doing-no-brightgreen">
